@@ -11,3 +11,5 @@
 <a href="http://120.78.120.117/WeDoX/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WeDoX&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
 </a>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WeDoX)](http://120.78.120.117/WeDoX/)
