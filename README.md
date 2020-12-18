@@ -8,10 +8,6 @@
 - [《镰刀影视》](http://120.78.120.117/WeDoX/download_app.html)
 
 
- <iframe  
- height=850 
- width=90% 
- src="https://github-readme-stats.vercel.app/api?username=WeDoX&count_private=true&show_icons=true&hide=contribs&include_all_commits=true"  
- frameborder=0  
- allowfullscreen>
- </iframe>
+<a href="http://120.78.120.117/WeDoX/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WeDoX&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
+</a>
