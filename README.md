@@ -15,3 +15,5 @@
 <a href="http://120.78.120.117/WeDoX/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WeDoX"/>
 </a>
+
+![jdallen's github stats](https://github-readme-stats.vercel.app/api?username=WeDoX&theme=vue-dark&show_icons=true)
