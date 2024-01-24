@@ -3,7 +3,6 @@
 
 
 ### 个人开发运营的Android App
-- [《坚持100天》](https://www.coolapk.com/apk/com.onedream.plan)
-
--  [《一个时钟》](http://120.78.120.117/OneClock/)
+- [《坚持100天》](http://120.78.120.117/plan/)
+- [《一个时钟》](http://120.78.120.117/OneClock/)
 
