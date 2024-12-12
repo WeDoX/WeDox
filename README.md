@@ -3,7 +3,7 @@
 - [WeDoX Studio](https://bumingniao.com)
 - [链否(linkfou.com)](https://linkfou.com)
 - [小手的爱(smallhand.love)](https://smallhand.love)
-- [WeDoX工作室](https://www.wedox.org/)
+- [WeDoX工作室：常用的工具网站](https://www.wedox.org/)
 
 
 ### 个人开发运营的Android App
