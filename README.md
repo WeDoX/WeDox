@@ -1,8 +1,8 @@
 # jdallen
 ### 个人网站
 - [WeDoX Studio](https://bumingniao.com)
-- [链否](https://linkfou.com)
-- [小手的爱](https://smallhand.love)
+- [链否(linkfou.com)](https://linkfou.com)
+- [小手的爱(smallhand.love)](https://smallhand.love)
 
 
 ### 个人开发运营的Android App
