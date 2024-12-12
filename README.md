@@ -1,7 +1,7 @@
 # jdallen
 ### 个人网站
 - [WeDoX Studio](https://bumingniao.com)
-- [链否(linkfou.com)](https://linkfou.com)
+- [链否(linkfou.com)](https://linkfou.com/index.html?target_user=8E69E7AF-0072-FB97-9582-80562EE07EA3-1733066798-14805)
 - [小手的爱(smallhand.love)](https://smallhand.love)
 - [WeDoX工作室：常用的工具网站](https://www.wedox.org/)
 
