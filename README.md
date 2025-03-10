@@ -15,3 +15,16 @@
 
 ### 统计
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=WeDoX"/>
+
+
+
+> [!NOTE]
+> 566666
+
+> [!WARNING]
+>2345
+
+22222
+
+> [!NOTE]
+> 123
