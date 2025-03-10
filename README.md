@@ -1,6 +1,5 @@
 # jdallen
-> [!NOTE]
-> ### 个人网站
+> [!个人网站]
 > - <a href="https://17playgame.fun" title="Play Free Online Games Without Downloads" rel="dofollow">17playgame.fun</a>
 > - <a href="https://3timer.com" title="Remote-controlled Countdown Timer" rel="dofollow">3timer.com</a>
 > - <a href="https://drawpixel.art" title="Remote-controlled Pixel Artboard" rel="dofollow">drawpixel.art</a>
